@@ -1,5 +1,7 @@
 # Vrinda Store Annual Sales Analysis (2022)
 
+![Vrinda Store Dashboard](dashboard.png)
+
 ## Project Objective
 The Vrinda Store wants to create an annual sales report for 2022. The goal is to understand customer behavior and identify sales patterns to drive a strategic growth plan for 2023.
 
@@ -44,7 +46,3 @@ To provide a comprehensive analysis, the project answers the following key quest
 
 ## Conclusion & Recommendation
 To maximize sales in 2023, Vrinda Store should focus marketing efforts on **Women aged 30-49** residing in **Maharashtra, Karnataka, and Uttar Pradesh** by offering platform-specific promotions on **Amazon and Flipkart**.
-
----
-*Dashboard Preview:*
-![Vrinda Store Dashboard](dashboard.png)
